@@ -1,0 +1,7 @@
+- Title - Loan status prediction.
+- Steps Included -
+1. loan data
+2. Pre Processing
+3. train test split
+4. Support vector machine model
+- Output - After training the SVM it will be able to predict whether a loan should be approved or rejected by evaluating the features of that specific loan.
